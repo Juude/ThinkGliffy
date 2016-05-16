@@ -1,2 +1,2 @@
 # ProgrammingGliffy
-My thought on muliple programming problems use Gliffy
+My thought on multiple programming problems use Gliffy
